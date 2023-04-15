@@ -1,0 +1,58 @@
+/* General Styling */
+html {
+  font-size: 22px;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.6rem;
+  padding-bottom: 1rem;
+}
+
+h3 {
+  padding-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.spacing {
+  margin-top: 2rem;
+}
+
+/* App Styling */
+form {
+  padding-bottom: 0.5rem;
+}
+
+.ui-page,
+.ui-mobile {
+  margin: auto;
+  max-width: 500px;
+  position: static;
+}
+
+.numbpad {
+  text-align: center;
+}
+
+/* Button styling */
+.updatePassword:hover {
+  text-decoration: none;
+}
+
+/* Table styling */
+#boilerInfoTable {
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+/* Error messeage styling */
+#error,
+#graphError,
+#errorRecom {
+  color: Red;
+}

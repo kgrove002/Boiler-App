@@ -1,0 +1,1 @@
+This is a basic boiler app that uses localStorage to store data and then shows that data in the form of a graph. This application also provides the user with data based on the average of the data given.
